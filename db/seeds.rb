@@ -113,6 +113,19 @@ Style: 835384-012
 <p>},
   image_url: 'niketherma2.jpg',
   price: 70.00)
+# . . .
+
+Product.create!(title: 'NIKE GAMEDAY',
+  description:
+    %{<p>The Nike Gameday Men's Polo features mesh side panels and sweat-wicking fabric to help keep you cool, dry and comfortable.
+
+Shown: Team Anthracite/Team White/Team White
+Style: 706710-061
+
+
+<p>},
+  image_url: 'nikeblackpolo2.png',
+  price: 40.00)
 
 
 
